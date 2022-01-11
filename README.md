@@ -1,4 +1,4 @@
-# Izzat-FNF-voice-samples
+# Izzat-FNF-voice-samples-and-stuff
 This is where I keep my FNF voicebanks, chromatic scales and whatnot to use in my FNF covers.
 If you use any of these voicebanks, be sure to credit me, as well the original mods, and we're good.
 
